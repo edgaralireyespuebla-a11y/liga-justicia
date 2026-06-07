@@ -1,4 +1,0 @@
-# historia de flash 
-
-
-En los primeros años del siglo XXI, los cibercafés eran el punto de encuentro para quienes buscaban explorar la incipiente internet. Al sentarte frente a una computadora, probablemente abrías un navegador para visitar sitios como Newgrounds o Miniclip, donde juegos como Bloons o Club Penguin capturaban horas de atención. Series animadas como Alejo y Valentina se volvían virales desde computadoras caseras, impulsadas por una tecnología que definió una era: Adobe Flash. Esta es la crónica de su ascenso, su reinado y su desaparición, un relato que combina innovación técnica con una explosión de creatividad que marcó la internet de los 90 y 2000. Flash transformó la web interactiva, permitiendo que artistas y desarrolladores amateurs crearan contenido que llegaba a millones sin necesidad de grandes recursos.
